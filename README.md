@@ -1,6 +1,6 @@
 # DeviceManagement
 
- Device management API using pring Boot.
+ Device management API using Spring Boot.
 
 
 Step 1:
